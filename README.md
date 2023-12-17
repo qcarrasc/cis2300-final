@@ -1,6 +1,6 @@
 # cis2300-final
 Analyzing Our City Using NYC Open Data + Pandas
-CIS2300 (Baruch College) \n
+CIS2300 (Baruch College) 
 Professor Fan Feng, Student: Queen Carrasco
 
 In this project, we utilized the Pandas Library to combine and analyze open datasets from NYC's various agencies. My group chose the Housing Maintenance Code Violations from the Department of Housing Preservation and Development (HPD). HPD issues violations against conditions, in rental dwelling units and buildings that violate New York City's Housing Maintenance Code (HMC) or the New York State Multiple Dwelling Law (MDL). 
